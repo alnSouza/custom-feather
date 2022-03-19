@@ -8,4 +8,4 @@ adicione antes do fechamendo da tag body
 <script> new Feather() </script>
 
 agora basta incluir a tag i
-<i feather-src="activity" color="blue" width="25" height="25"></i>"
+<i feather-src="activity" color="blue" width="25" height="25"></i>
